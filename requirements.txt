@@ -2,6 +2,5 @@ streamlit
 librosa
 pandas
 numpy
+torch
 tensorflow
-sounddevice
-scipy
