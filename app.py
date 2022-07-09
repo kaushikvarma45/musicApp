@@ -106,7 +106,7 @@ def show_predict_page():
           print("Class " + str(i+1) + " Probab = " + str(ff) + "%")
           st.subheader("Class " + str(i+1) + " Probab = " + str(ff) + "%")
 
-      salary = regressor.predict(X)
+      
       st.subheader(f"The estimated class is {classcase}")
 
 
