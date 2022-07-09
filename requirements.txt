@@ -4,3 +4,4 @@ numpy
 torch
 tensorflow
 streamlit
+sounddevice
