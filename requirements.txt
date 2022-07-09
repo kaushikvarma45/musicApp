@@ -1,6 +1,6 @@
-streamlit
 librosa
 pandas
 numpy
 torch
 tensorflow
+streamlit
